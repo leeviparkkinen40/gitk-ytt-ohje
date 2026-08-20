@@ -21,7 +21,7 @@ Eniten Gitissä käytetään komentoja git add ja git commit.
 git add lisää tiedostosi ja commit tallentaa muutokset
 #
 
-git log on tärkeä kun tekee tallennuksilla asioita
+git log on tärkeä kun tekee muutoksilla asioita
 -
 git log antaa sinun tallennuksista tiedoa niinkuin muutoksesi ID sarja
 #
