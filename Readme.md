@@ -28,3 +28,7 @@ git log antaa sinun tallennuksista tiedoa niinkuin muutoksesi ID sarja
 git status näyttää sinulle tiedostot jotka pitää lisätä
 -
 git status näyttää sinulle että mitä tiedostoja ei ole vielä lisätty tallennukseen.
+#
+<img src="gitbranch.png">
+
+<img src="gitlife.png">
